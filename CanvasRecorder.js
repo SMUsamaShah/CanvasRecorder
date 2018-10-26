@@ -32,7 +32,7 @@ function CanvasRecorder(canvas, video_bits_per_sec) {
 
         for (let i in types) {
             if (MediaRecorder.isTypeSupported(types[i])) {
-                let supportedType = types[i];
+                supportedType = types[i];
                 break;
             }
         }
