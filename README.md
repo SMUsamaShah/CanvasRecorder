@@ -2,6 +2,8 @@
 
 Record a canvas to webm video without effecting rendering performance.
 
+*NOTE: Only tested it with Chrome and should work fine with Firefox*
+
 ## How to use
 
 Create a recorder
