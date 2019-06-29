@@ -1,4 +1,5 @@
-# CanvasRecorder.js
+# CanvasRecorder.js 
+[![HitCount](http://hits.dwyl.io/smusamashah/CanvasRecorder.svg)](http://hits.dwyl.io/smusamashah/CanvasRecorder)
 
 Record a canvas to webm video without effecting rendering performance.
 
